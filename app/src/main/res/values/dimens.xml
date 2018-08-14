@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textoNombre">35sp</dimen>
+    <dimen name="telefono_contacto">20sp</dimen>
+    <dimen name="top">20dp</dimen>
+    <dimen name="left">10dp</dimen>
+    <dimen name="padding">10dp</dimen>
+    <dimen name="verticalMargin">10dp</dimen>
+    <dimen name="cornerRadiusCard">4dp</dimen>
+    <dimen name="nombreCardView">20sp</dimen>
+    <dimen name="elevacion_actionBar">4dp</dimen>
+</resources>
